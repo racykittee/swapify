@@ -1,4 +1,4 @@
-# swapify
+# Swapify
 Swapify is a Jupyter notebook that uses Python to take a downloaded csv of paired e-mail addresses and Spotify playlist urls and then e-mails a random playlist to each participant. E-mails are sent through Microsoft Outlook
 
 # Data Collection
