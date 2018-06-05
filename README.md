@@ -10,10 +10,10 @@ Swapify participants fill out a 2 question Google forms survey with 2 questions:
 
 The responses are downloaded as a .csv at an appointed time and run through the Swapify script.
 
-# .csv Columns
+# Column headings
 
-EMAIL: String
+email: String
 Responses to "What's your e-mail"?
 
-URL: String
+url: String
 Responses to "What's your Spotify playlist URL?"
